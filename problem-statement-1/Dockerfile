@@ -1,6 +1,5 @@
 # Base image
 FROM debian:bookworm-slim
-
 # Install dependencies and fortunes database
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \

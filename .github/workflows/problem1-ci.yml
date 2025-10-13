@@ -1,5 +1,3 @@
-# THIS FILE IS NOW FIXED
-
 # Name of your workflow
 name: CI - Build and Push Wisecow Image
 
